@@ -22,3 +22,6 @@ def areaoftriangle(b,h):
     areaoftriangle = b * h * 0.5
     print("area is", areaoftriangle)
     areaoftriangle(2,3)
+def greeting(b):
+    print("hello", b)
+    greeting("victoria")
