@@ -25,3 +25,35 @@ def areaoftriangle(b,h):
 def greeting(b):
     print("hello", b)
     greeting("victoria")
+22/7
+import math
+dir(math)
+pi
+math.pi
+math.e
+math.sqrt(4)
+math.factorial(4)
+math.pow(2,4)
+math.atan(2)
+def cbrt(x):
+    cbrt = x**(1/3)
+    print( "cube root is", cbrt)
+    cbrt(27)
+math.isclose()  
+
+
+
+
+
+
+
+
+
+def askuser():
+    print("Please enter a value for x")
+    
+askuser()
+x=10
+cbrt(x)
+ askuser()
+cbrt(x)
